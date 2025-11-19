@@ -292,6 +292,13 @@ div.kroks {
     width: 220px !important;
     height: 65px !important;
 }
+div.Rx8-Uv1,
+div.Rx8-Pv2-Uv3,
+div.miglink {
+    background-image: url("../img/logo/miglink.png") !important;
+    width: 160px !important;
+    height: 41px !important;
+}
 div.MQ-WITI-256,
 div.MQ-WITI-512,
 div.maker {
